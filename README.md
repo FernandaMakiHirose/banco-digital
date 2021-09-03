@@ -6,6 +6,9 @@ Considerando o conhecimento no domínio bancário, fiz uma solução Orientada a
 - Noções básicas de Java e Orientação a Objetos
 - IDE
 
+## Licença
+Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
+
 ## Comandos
 - Provavelmente a sua IDE tem algum botão para executar o projeto, caso não encontre, siga esses passos para executar o projeto:
 
